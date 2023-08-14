@@ -50,11 +50,11 @@ from turtle import *
 
 if __name__ == '__main__':
     # <<Exemple 1>>
-    forward(120)
-    left(90)
-    color('red')
-    forward(80)
-    sleep(5)
+    # forward(120)
+    # left(90)
+    # color('red')
+    # forward(80)
+    # sleep(5)
 
     # <<Exemple 2>>
     reset()

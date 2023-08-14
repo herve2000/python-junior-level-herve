@@ -77,7 +77,7 @@ def table7triple():
 
 if __name__ == '__main__':
     # <<Exemple 1>>
-    table8()
+    # table8()
 
     # <<Exemple 2>>
-    # table7triple()
+    table7triple()

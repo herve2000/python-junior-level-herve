@@ -100,10 +100,10 @@ def monter():
 if __name__ == '__main__':
     # <<Exemple 1>>
     p, q = 15, 38
-
-    mask()
-
-    print(p, q)
+    # print(p, q)
+    #
+    # mask()
+    # print(p, q)
 
     # <<Exemple 2>>
     a = 15

@@ -48,21 +48,6 @@ def salut():
     print("Hello world!")
 
 
-def auRevoir(name):
-    print("Good bye", name)
-
-
-def saluts(firstPerson, secondPerson):
-    print(f"Salut {firstPerson} et {secondPerson}")
-
-
 if __name__ == '__main__':
     # <<Exemple 1>>
-    # salut()
-
-    # auRevoir("Ferdinand")
-    # auRevoir("Lucas")
-    # auRevoir("Elvira")
-
-    saluts(firstPerson="Herve", secondPerson="Jordan")
-    saluts(secondPerson="Jordan", firstPerson="Herve")
+    salut()

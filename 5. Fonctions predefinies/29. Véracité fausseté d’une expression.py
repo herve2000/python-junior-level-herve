@@ -107,7 +107,7 @@ if __name__ == '__main__':
     # print("De meme \n")
     #
     # print("Normalement on accede a la seconde valeur en faisant accord[1] qui est ", accord[1])
-    # print("Mais on peut aussi y acceder en faisant accord[c] aui est ", accord[c])
+    # print("Mais on peut aussi y acceder en faisant accord[c] qui est ", accord[c])
     #
     # print("\n ce qui confirme donc les valeurs de c et d")
 

@@ -39,7 +39,6 @@
 # ...
 # <<Exemple 2>>
 
-
 def tableMulti(base, debut, fin):
     print('Fragment de la table de multiplication par', base, ':', f" debut--> {debut}", f" fin-->{fin}")
     n = debut
@@ -50,10 +49,10 @@ def tableMulti(base, debut, fin):
 
 if __name__ == '__main__':
     # <<Exemple 1>>
-    # tableMulti(8, 13, 17)
+    tableMulti(8, 13, 17)
 
     # <<Exemple 2>>
-    t, d, f = 11, 5, 10
-    while t < 21:
-        tableMulti(t, d, f)
-        t, d, f = t + 1, d + 3, f + 5
+    # t, d, f = 11, 5, 10
+    # while t < 21:
+    #     tableMulti(t, d, f)
+    #     t, d, f = t + 1, d + 3, f + 5

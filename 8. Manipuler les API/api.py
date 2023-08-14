@@ -70,4 +70,5 @@ def delete_user(user_id):
     print("Response status code: {}".format(response))    
     return response
 
-delete_user(user_id=100)
+# delete_user(user_id=100)
+# get_all_users()

@@ -39,8 +39,8 @@
 
 if __name__ == '__main__':
     # <<Exemple 1>>  nom_de_la_fonction()
-    prenom = input("Entrez votre prénom : ")
-    print("Bonjour,", prenom)
+    # prenom = input("Entrez votre prénom : ")
+    # print("Bonjour,", prenom)
 
     # <<Exemple 2>>
     # nombrePositifString = input("Veuillez entrer un nombre positif quelconque : ")
